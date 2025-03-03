@@ -1,4 +1,4 @@
-# Lesego Masina SovTech Software Engineer Submission
+# My React App Portfolio
 
 ## How to bootstrap an application 
 
